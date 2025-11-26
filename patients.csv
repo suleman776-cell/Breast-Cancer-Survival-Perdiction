@@ -1,0 +1,8 @@
+Name,Age,Feature1,Feature2,Feature3,Feature4,Feature5,Feature6,Feature7,Feature8,Feature9,Feature10,Feature11,Feature12,Feature13,Feature14,Feature15,Prediction,Probability_%,Date
+RAJA SULMAN,15,12.0,11.0,12.0,12.0,12.0,14.0,12.0,13.0,15.0,10.0,12.0,13.0,30.0,12.0,78.0,0,43.0,2025-11-19 09:32:28
+RAJA SULMAN,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,65.0,2025-11-19 09:43:33
+RAJA SULMAN,21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,65.0,2025-11-19 09:51:43
+RAJA SULMAN,-1,1,firm,8,yes,no,0,1,1,0,1,0,1,1,1,89.0,2025-11-19 10:13:30
+Hamza Arshad,26,3,irregular,8,no,yes,3,1,1,0,0,1,1,1,0.0,1,85.0,2025-11-19 10:51:32
+Hamza Arshad,26,Not specified,3,irregular,8,no,yes,2,1,2,1,1,0,1,0,0.0,1,85.0,Middle stage,"Seek treatment urgently, risk increases without intervention.",2025-11-19 12:04:08
+Hamza Arshad,26,Not specified,0,firm,8,no,yes,0,0,0,0,0,0,0,0,0.0,1,85.0,Middle stage,"Seek treatment urgently, risk increases without intervention.",2025-11-19 12:08:09
